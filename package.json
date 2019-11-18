@@ -1,6 +1,6 @@
 {
   "name": "mixer-live-updates",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A JavaScript based mixer client used to interface with mixers subsscription protocol and receive live channel updates",
   "main": "index.js",
   "scripts": {
