@@ -27,7 +27,7 @@ class mixerClient extends EventEmitter{
             },
             isBot: true
         }).open();
-
+        this._subscribeStreamer(this.streamerId);
     }
 
     _subscribeStreamer(streamerId){
